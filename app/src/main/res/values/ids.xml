@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="etDate" type="id">etDate</item>
+    <item name="etMorning" type="id">etMorning</item>
+    <item name="etAfternoon" type="id">etAfternoon</item>
+    <item name="etNotes" type="id">etNotes</item>
+</resources>
